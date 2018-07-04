@@ -1,0 +1,2 @@
+class TotalAnnualCompensation < ApplicationRecord
+end
